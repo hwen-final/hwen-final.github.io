@@ -1,9 +1,10 @@
 ---
+layout: home
 ---
 
 # Henry Wen
 
-<img src="/files/portrait.jpg" style="float: top; width: 200px; margin: 0 0 1.5em 1.5em; border-radius: 4px;">
+<img src="/files/portrait.jpg" style="float: left; width: 200px; margin: 0 0 1.5em 1.5em; border-radius: 4px;">
 
 I am a PhD candidate in Economics at the **Australian National University** (2026--2030).
 
