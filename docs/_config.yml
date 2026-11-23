@@ -1,9 +1,10 @@
-# title: Henry Wen
+title: Henry Wen
 email: henry.wen@anu.edu.au
-description: >-
-  Henry Wen, PhD candidate in Economics at Australian National University.
 baseurl: ""
 url: "https://hwen-final.github.io/"
 github_username: hwen-final
 
 theme: minima
+
+titles_from_headings:
+  enabled: false
