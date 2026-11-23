@@ -2,6 +2,8 @@
 layout: home
 ---
 
+## Henry Wen
+
 I am a PhD candidate in Economics at the **Australian National University** (2026--2030).
 Fields: ecological economics, regional and urban economics, spatial econometrics
 
