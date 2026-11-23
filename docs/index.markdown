@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Henry Wen
+# Henry Wen
 
 I am a PhD candidate in Economics at the **Australian National University** (2026--2030).
 
