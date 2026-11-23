@@ -2,10 +2,9 @@
 layout: home
 ---
 
-# Henry Wen
-I am a PhD candidate in Economics at **Australian National University**.
+I am a PhD candidate in Economics at **Australian National University** (2026--2030)
 
-My research is in biodiversity markets, land use and regional economics.
+My research is in biodiversity credit markets, land markets and quantitative spatial equilibrium models. I employ spatial econometrics, general equilibrium models and deep learning tools to study ecological economic modelling.
 
 [CV](/files/cv.pdf) · [Email](mailto:henry.wen@anu.edu.au)
 
