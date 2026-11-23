@@ -1,8 +1,6 @@
-#---
-#layout: home
-#---
-
 # Henry Wen
+
+<img src="/files/portrait.jpg" style="float: right; width: 180px; margin: 0 0 1em 1.5em; border-radius: 4px;">
 
 I am a PhD candidate in Economics at the **Australian National University** (2026--2030).
 
@@ -10,6 +8,7 @@ My research is in biodiversity credit markets, land markets and quantitative spa
 
 [CV](/files/cv.pdf) · [Email](mailto:henry.wen@anu.edu.au)
 
+<div style="clear: both;"></div>
 
 ## Published Work
 
